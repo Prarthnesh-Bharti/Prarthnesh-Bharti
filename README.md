@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Next.js **
 - 💬 Ask me about **MERN, Machine Learning**
 - 📫 How to reach me **prarthneshbharti@gmail.com**
-
+Check out my portfolio here: [My Portfolio](https://my-portfolio-theta-livid-80.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
