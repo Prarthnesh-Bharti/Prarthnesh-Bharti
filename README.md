@@ -94,7 +94,7 @@
   </a> 
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prarthnesh-Bharti&show_icons=true&theme=radical)
+
 
 
 
