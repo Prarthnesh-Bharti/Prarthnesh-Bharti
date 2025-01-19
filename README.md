@@ -7,7 +7,7 @@
 
 - Check out my portfolio here: **[My Portfolio](https://my-portfolio-theta-livid-80.vercel.app/)**
 - 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **MERN, Machine Learning**
+- 💬 Ask me about **MERN, Generative AI**
 - 📫 How to reach me **prarthneshbharti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
