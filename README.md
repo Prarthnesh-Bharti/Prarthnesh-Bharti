@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Prarthnesh Bharti</h1>
-<h3 align="center">A passionate Full-Stack Developer with expertise in Machine Learning and Deep Learning.</h3>
+<h3 align="center">Full Stack Developer with experience in building scalable web applications using modern technologies, and familiar with integrating Generative AI solutions to enhance functionality.</h3>
 
 - Check out my portfolio here: **[My Portfolio](https://my-portfolio-theta-livid-80.vercel.app/)**
 - 🌱 I’m currently learning **Next.js**
