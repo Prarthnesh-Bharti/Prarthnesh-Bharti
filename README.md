@@ -94,4 +94,3 @@
   </a>
 </p>
 
-![GitHub commits](https://img.shields.io/github/commits-since/username/repository/lastyear)
